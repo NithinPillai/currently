@@ -37,11 +37,11 @@ export class VerticalCarouselComponent implements OnInit {
 
   private incrementLikes(): void {
     if (this.activeIndex >= 0 && !this.reels[this,this.activeIndex].userLiked) {
-      alert(`user liked ${this.activeIndex}`);
+      // alert(`user liked ${this.activeIndex}`);
       this.reels[this.activeIndex].likes++;
       this.reels[this.activeIndex].userLiked = true;
     } else if (this.activeIndex >= 0 && this.reels[this,this.activeIndex].userLiked) {
-      alert(`user unliked ${this.activeIndex}`);
+      // alert(`user unliked ${this.activeIndex}`);
       this.reels[this.activeIndex].likes--;
       this.reels[this.activeIndex].userLiked = false;
     }
@@ -52,7 +52,7 @@ export class VerticalCarouselComponent implements OnInit {
     if (this.activeIndex > 0) {
       this.activeIndex--;
     }
-    alert(`swiped down to ${this.activeIndex}`);
+    // alert(`swiped down to ${this.activeIndex}`);
   }
   
   swipeUp(): void {
@@ -60,7 +60,7 @@ export class VerticalCarouselComponent implements OnInit {
     if (this.activeIndex < this.reels.length - 1) {
       this.activeIndex++;
     }
-    alert(`swiped up to ${this.activeIndex}`);
+    // alert(`swiped up to ${this.activeIndex}`);
   }
 
   
@@ -71,6 +71,7 @@ export class VerticalCarouselComponent implements OnInit {
       this.reels.forEach((reel): void => {
         reel.description = reel.description.slice(0, 60);
         reel.description += '...'
+        reel.likes = Math.floor(Math.random() * 14000);
       });
     });
     
