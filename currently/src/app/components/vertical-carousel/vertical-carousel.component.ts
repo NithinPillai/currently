@@ -26,6 +26,10 @@ export class VerticalCarouselComponent implements OnInit {
     this.reelService.getReels().subscribe(reels => {
       this.reels = reels;
       console.log(this.reels);
+      this.reels.forEach((reel): void => {
+        reel.description = reel.description.slice(0, 60);
+        reel.description += '...'
+      });
     });
     
   }

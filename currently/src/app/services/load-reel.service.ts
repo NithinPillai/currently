@@ -18,6 +18,7 @@ export class LoadReelService {
         title: article.title,
         url: article.url,
         urlToImage: article.urlToImage,
+        description: article.description,
         likes: 0 // You can set likes to 0 or any default value here
       }))));
   }

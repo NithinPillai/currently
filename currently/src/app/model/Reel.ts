@@ -3,6 +3,7 @@ export class Reel {
     title: string; 
     url: string;
     urlToImage: string;
+    description: string;
 
     likes: number;
 
@@ -12,6 +13,7 @@ export class Reel {
         this.title = '';
         this.urlToImage = '';
         this.url = '';
+        this.description = '';
         
         this.likes = 0;
     }
