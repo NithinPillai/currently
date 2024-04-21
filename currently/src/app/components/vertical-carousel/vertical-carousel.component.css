@@ -1,0 +1,45 @@
+.vertical-carousel {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Make the carousel container full height of the viewport */
+  border: 3px solid green;
+}
+
+.reel {
+  flex: 1; /* Each reel div will take up equal vertical space */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%; /* Make the carousel container full height of the viewport */
+  border: 1px solid red;
+}
+
+.reel img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/* Optionally, you can set background properties for .reel to fill the entire space */
+/* .reel {
+  background-size: cover;
+  background-position: center;
+} */
+
+
+/* .reel {
+  display: grid;
+  grid-template-areas: "a", "a", "b", "b", "b", "c";
+  height: 100%;
+  width: 100%;
+} */
+
+h1 {
+  grid-area: a;
+}
+
+img {
+  grid-area: b;
+}
+
