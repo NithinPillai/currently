@@ -3,6 +3,8 @@
 .logoContainer {
     width: 100%;
     background-color: black;
+    /* background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.75) 25%); */
     display: flex; 
     justify-content: center; 
     align-items: center; 

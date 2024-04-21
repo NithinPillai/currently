@@ -26,13 +26,15 @@ export class VerticalCarouselComponent implements OnInit {
 
   private initializeHammer(): void {
     const hammer = new Hammer(this.elementRef.nativeElement);
+    // const horiHammer = new Hammer(this.elementRef.nativeElement);
 
-    hammer.get('swipe').set({ direction: Hammer.DIRECTION_VERTICAL });
+    hammer.get('swipe').set({ direction: Hammer.DIRECTION_ALL });
     hammer.get('doubletap').set({ posThreshold: 20, interval: 300 });
-    
+
     hammer.on('swipedown', () => this.swipeDown());
     hammer.on('swipeup', () => this.swipeUp());
     hammer.on('doubletap', () => this.incrementLikes());
+    hammer.on('swipeleft', () => this.swipeLeft());
   }
 
   private incrementLikes(): void {
@@ -52,7 +54,16 @@ export class VerticalCarouselComponent implements OnInit {
     if (this.activeIndex > 0) {
       this.activeIndex--;
     }
-    // alert(`swiped down to ${this.activeIndex}`);
+    const navbar = document.getElementById('navbar');
+    if (navbar != null) {
+      // navbar.style.display = "flex";
+      navbar.style.opacity = "1";
+    }
+
+    const element = document.getElementById(`reel_${this.activeIndex}`);
+    if (element != null) {
+      element.scrollIntoView({behavior: 'smooth', block: 'start', inline: 'nearest'});
+    }
   }
   
   swipeUp(): void {
@@ -60,7 +71,20 @@ export class VerticalCarouselComponent implements OnInit {
     if (this.activeIndex < this.reels.length - 1) {
       this.activeIndex++;
     }
-    // alert(`swiped up to ${this.activeIndex}`);
+    const element = document.getElementById(`reel_${this.activeIndex}`);
+    if (element != null) {
+      element.scrollIntoView({behavior: 'smooth', block: 'start', inline: 'nearest'});
+    }
+
+    const navbar = document.getElementById('navbar');
+    if (navbar != null) {
+      navbar.style.opacity = "0";
+      navbar.style.transition = "opacity 0.75s";
+    }
+  }
+
+  swipeLeft(): void {
+      window.open(this.reels[this.activeIndex].url, "_blank");
   }
 
   
