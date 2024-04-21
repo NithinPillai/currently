@@ -19,6 +19,7 @@ export class VerticalCarouselComponent implements OnInit {
 
   constructor(private reelService: LoadReelService, private elementRef: ElementRef) {}
 
+  
   ngOnInit(): void {
     this.loadReels();
     this.initializeHammer();
@@ -26,27 +27,48 @@ export class VerticalCarouselComponent implements OnInit {
 
   private initializeHammer(): void {
     const hammer = new Hammer(this.elementRef.nativeElement);
-    // const horiHammer = new Hammer(this.elementRef.nativeElement);
 
     hammer.get('swipe').set({ direction: Hammer.DIRECTION_ALL });
     hammer.get('doubletap').set({ posThreshold: 20, interval: 300 });
-
+    
+    hammer.on('doubletap', (event) => this.incrementLikes(event.center.x, event.center.y));
     hammer.on('swipedown', () => this.swipeDown());
     hammer.on('swipeup', () => this.swipeUp());
-    hammer.on('doubletap', () => this.incrementLikes());
     hammer.on('swipeleft', () => this.swipeLeft());
   }
 
-  private incrementLikes(): void {
-    if (this.activeIndex >= 0 && !this.reels[this,this.activeIndex].userLiked) {
-      // alert(`user liked ${this.activeIndex}`);
-      this.reels[this.activeIndex].likes++;
-      this.reels[this.activeIndex].userLiked = true;
-    } else if (this.activeIndex >= 0 && this.reels[this,this.activeIndex].userLiked) {
-      // alert(`user unliked ${this.activeIndex}`);
-      this.reels[this.activeIndex].likes--;
-      this.reels[this.activeIndex].userLiked = false;
-    }
+  private incrementLikes(xCoord: number, yCoord: number): void {
+    const gifHolder = document.getElementById("likeGifHolder") as HTMLElement;
+    if (gifHolder != null) {
+      const vh = window.innerHeight;
+      gifHolder.style.position = "absolute";
+      gifHolder.style.opacity = "1";
+      gifHolder.style.top = `${yCoord - ((this.activeIndex + 1) * Math.log(50)) + (this.activeIndex * vh)}px`;
+      gifHolder.style.left = `${xCoord - 50}px`;
+
+      if (this.activeIndex >= 0 && !this.reels[this,this.activeIndex].userLiked) {
+        gifHolder.setAttribute('src','../../assets/like_gifs/like.gif');
+        this.reels[this.activeIndex].likes++;
+        this.reels[this.activeIndex].userLiked = true;
+        setTimeout(() => {
+          gifHolder.style.opacity = '0';
+  
+        }, 500);
+      } else if (this.activeIndex >= 0 && this.reels[this,this.activeIndex].userLiked) {
+        gifHolder.setAttribute("src", "../../assets/like_gifs/unlike.gif");
+        this.reels[this.activeIndex].likes--;
+        this.reels[this.activeIndex].userLiked = false;
+        setTimeout(() => {
+          gifHolder.style.transition = "opacity 0.5s";
+          gifHolder.style.opacity = '0';
+  
+        }, 500);
+      }
+
+      
+    } 
+
+    
   }
 
   swipeDown(): void {
@@ -56,7 +78,6 @@ export class VerticalCarouselComponent implements OnInit {
     }
     const navbar = document.getElementById('navbar');
     if (navbar != null) {
-      // navbar.style.display = "flex";
       navbar.style.opacity = "1";
     }
 

@@ -5,6 +5,7 @@
   flex-direction: column;
   touch-action: manipulation;
   justify-content: center;
+  position: relative;
 }
 
 .reel {
