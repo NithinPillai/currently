@@ -1,4 +1,4 @@
 .reel {
-  height: 50%;
-  border: 1px solid red;
+  display: grid;
+  grid-template-areas: "a", "a", "b", "b", "b", "c";
 }
