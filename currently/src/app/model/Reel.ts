@@ -3,6 +3,9 @@ export class Reel {
     title: string; 
     url: string;
     urlToImage: string;
+    description: string;
+
+    userLiked: boolean;
 
     likes: number;
 
@@ -12,6 +15,8 @@ export class Reel {
         this.title = '';
         this.urlToImage = '';
         this.url = '';
+        this.description = '';
+        this.userLiked = false;
         
         this.likes = 0;
     }
