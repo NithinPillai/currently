@@ -6,3 +6,7 @@
     z-index: 1000; /* Adjust this value based on your layout */
     /* Additional styles as needed */
   }
+
+.caro {
+    margin:80px;
+}
