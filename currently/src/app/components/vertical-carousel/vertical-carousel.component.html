@@ -1,5 +1,9 @@
-<div class="carousel-container">
-    <div *ngFor="let reel of reels" class="carousel-item">
-      
-    </div>
+<div class="vertical-carousel">
+  <div *ngFor="let reel of reels; let i = index" [class.active]="i === activeIndex" class="reel">
+    <img [src]="reel.urlToImage" alt="{{ reel.title }}">
+    <div>{{ reel.title }}</div>
+    <div>{{ reel.source_name }}</div>
+    <div>{{ reel.likes }} likes</div>
+    <a [href]="reel.url" target="_blank">Read more</a>
   </div>
+</div>

@@ -1,9 +1,4 @@
-.carousel-container {
-    height: 300px; /* Adjust as needed */
-    overflow-y: scroll;
-  }
-  
-  .carousel-item {
-    height: 100px; /* Adjust based on content */
-    /* Additional styling */
-  }
+.reel {
+  height: 50%;
+  border: 1px solid red;
+}
