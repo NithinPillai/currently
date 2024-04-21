@@ -5,6 +5,8 @@ export class Reel {
     urlToImage: string;
     description: string;
 
+    userLiked: boolean;
+
     likes: number;
 
 
@@ -14,6 +16,7 @@ export class Reel {
         this.urlToImage = '';
         this.url = '';
         this.description = '';
+        this.userLiked = false;
         
         this.likes = 0;
     }
