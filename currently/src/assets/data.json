@@ -1,175 +1,1306 @@
 {
-    "status": "ok",
-    "totalResults": 13,
-    "articles": [
-      {
-        "source": {
-          "id": null,
-          "name": "Ozbargain.com.au"
-        },
-        "author": "krushgroove",
-        "title": "[PC] The Walking Dead: The Telltale Definitive Series $17.49 (75% off) @ GOG",
-        "description": "Crazy price for this solid and iconic series of games, as part of GOG's Spring Sale. And it's a GOG game so DRM FREE. No activation or online connection required to play.\n\nThe Walking Dead: The Telltale Definitive Series contains all 4 Seasons, 400 Days, and …",
-        "url": "https://www.ozbargain.com.au/node/838912",
-        "urlToImage": "https://files.ozbargain.com.au/n/12/838912l.jpg?h=da91a6ce",
-        "publishedAt": "2024-03-30T13:01:12Z",
-        "content": "Crazy price for this solid and iconic series of games, as part of GOG's Spring Sale. And it's a GOG game so DRM FREE. No activation or online connection required to play.\r\nThe Walking Dead: The Tellt… [+1295 chars]"
+  "status": "ok",
+  "totalResults": 17853,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Thekitchn.com"
-        },
-        "author": "Mara Weinraub",
-        "title": "How a Kentucky Couple Came in $74 Under Budget on a Week's Worth of Groceries",
-        "description": "“Curbside pickup just makes it so easy.”\nREAD MORE...",
-        "url": "https://www.thekitchn.com/grocery-diary-amy-kentucky-23636794",
-        "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FEdit%2F2024-03-grocery-diary-amy%2Fkroger-haul-2",
-        "publishedAt": "2024-03-21T14:30:00Z",
-        "content": "We independently select these products—if you buy from one of our links, we may earn a commission. All prices were accurate at the time of publishing.\r\nName: Amy Location: Louisville, KY Age: 52Numbe… [+9951 chars]"
+      "author": "Andy Greenberg, Matt Burgess",
+      "title": "Change Healthcare Faces Another Ransomware Threat—and It Looks Credible",
+      "description": "Change Healthcare ransomware hackers already received a $22 million payment. Now a second group is demanding money, and has sent WIRED samples of what they claim is the company's stolen data.",
+      "url": "https://www.wired.com/story/change-healthcare-ransomhub-threat/",
+      "urlToImage": "https://media.wired.com/photos/66194e33b6dbceed427548e2/191:100/w_1280,c_limit/RansomHub-Change-Healthcare-Alamy-W5BW53.jpg",
+      "publishedAt": "2024-04-12T18:25:44Z",
+      "content": "For months, Change Healthcare has faced an immensely messy, months-long ransomware debacle that has left hundreds of pharmacies and medical practices across the United States unable to process claims… [+3282 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Atlas Obscura"
-        },
-        "author": "ugc",
-        "title": "Monument de l'Orange de Berkane (Berkane Orange Monument) in Berkane, Morocco",
-        "description": "Berkane, Morocco, a charming town near the Algerian border, is the gateway to the picturesque Zegzel region, famous for its lush landscapes and citrus groves. This village grows a variety of fruits and vegetables, but its specialty is oranges and clementines.…",
-        "url": "https://www.atlasobscura.com/places/berkane-orange-monument",
-        "urlToImage": "https://img.atlasobscura.com/BkUiZdMROQQDz_QZCRr24d0koiNBF9af8nDPPgiwxZk/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMDNm/NTMxMS1hNGNiLTQz/ZWMtOWI4Mi0xMmMw/Y2Q2ZDI3ZDExNTg4/NmE2YjEwNWViNzNh/OGRfQmVya2FuZV9s/ZXRjaGluYS5qcGc.jpg",
-        "publishedAt": "2024-04-08T19:00:00Z",
-        "content": "Berkane, Morocco, a charming town near the Algerian border, is the gateway to the picturesque Zegzel region, famous for its lush landscapes and citrus groves. \r\nThis village grows a variety of fruits… [+259 chars]"
+      "author": "Eric Geller",
+      "title": "Change Healthcare's New Ransomware Nightmare Goes From Bad to Worse",
+      "description": "A cybercriminal gang called RansomHub claims to be selling data highly sensitive patient information stolen from Change Healthcare following a ransomware attack by another group in February.",
+      "url": "https://www.wired.com/story/change-healthcare-ransomhub-data-sale/",
+      "urlToImage": "https://media.wired.com/photos/661ebc4d5ebfe19fa48a7758/191:100/w_1280,c_limit/Change-Healthcare-Hack-Security-Alamy-2K3J5G8.jpg",
+      "publishedAt": "2024-04-16T19:09:01Z",
+      "content": "Change Healthcare is facing a new cybersecurity nightmare after a ransomware group began selling what it claimed is Americans sensitive medical and financial records stolen from the health care giant… [+3412 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Mcsweeneys.net"
-        },
-        "author": "Mai Tran",
-        "title": "Chronicles of a Catsitter: My Human Went to “Greece” and Left Me with This Person Who Doesn’t Give Me Treats",
-        "description": "Mai Tran began catsitting in 2021 while Tran was on pandemic unemployment, often staying overnight in people’s homes. Tran has now cared for twenty-two cats and traveled to ten apartments all over New York City, observing the interior lives of cat owners and …",
-        "url": "https://www.mcsweeneys.net/articles/my-human-went-to-greece-and-left-me-with-this-person-who-doesnt-give-me-treats",
-        "urlToImage": "http://edge.mcsw.net/mcsweeneys/olg5hn7hqa8j668cvsed1ud5to50",
-        "publishedAt": "2024-04-12T13:00:00Z",
-        "content": "Mai Tran began catsitting in 2021 while Tran was on pandemic unemployment, often staying overnight in people’s homes. Tran has now cared for twenty-two cats and traveled to ten apartments all over Ne… [+8743 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "'The NHS paid for my mum to go private. She died'",
+      "description": "BBC Panorama investigates patient safety at a major private provider used by the NHS.",
+      "url": "https://www.bbc.co.uk/news/uk-68717086",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/358B/production/_133070731_photo04-04-2024145740.jpg",
+      "publishedAt": "2024-04-08T05:00:24Z",
+      "content": "A woman died when a major private healthcare provider failed to transfer her to NHS intensive care quickly enough after she became critically ill.\r\nSabrina Khan said Spire Healthcare staff \"should ha… [+8742 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Pbfingers.com"
-        },
-        "author": "Julie",
-        "title": "One Week of Kid Breakfasts in 5 Minutes (or Less)",
-        "description": "Hey friends! How are you? How was your weekend? We spent a lot of our weekend at home tackling various home projects we’ve had on our radar for months (a gallery wall, for one) but spent the vast majority of our time outside. After a dreary week, it was so wo…",
-        "url": "https://www.pbfingers.com/?p=100085",
-        "urlToImage": "https://i2.wp.com/pbfingers.com/wp-content/uploads/2024/04/img_3969_vsco-1-807x1024.jpg",
-        "publishedAt": "2024-04-15T12:42:44Z",
-        "content": "Hey friends! How are you? How was your weekend? We spent a lot of our weekend at home tackling various home projects we’ve had on our radar for months (a gallery wall, for one) but spent the vast maj… [+6328 chars]"
+      "author": "Sponsor Post",
+      "title": "Unlocking health and life sciences' potential with cloud solutions",
+      "description": "Organizations are turning toward cloud technologies to build a connected healthcare ecosystem and accelerate innovation.",
+      "url": "https://www.businessinsider.com/sc/unlocking-health-and-life-sciences-potential-with-cloud-solutions",
+      "urlToImage": "https://i.insider.com/6616ac8716bde8d4ead7503d?width=1200&format=jpeg",
+      "publishedAt": "2024-04-16T16:15:18Z",
+      "content": "Ignatiev/Getty Images\r\nIn today's digitally driven world, data has become the lifeblood of the healthcare and life sciences industry. From genomic sequencing data to real world patient records, data … [+4226 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "New York Post"
-        },
-        "author": "Angela Barbuti",
-        "title": "NYC dogs and locals dress to impress in their Sunday best at Easter Parade",
-        "description": "Amongst the revelers decked out in creative and colorful hats at this year's Easter Parade and Bonnet Festival, twin chihuahuas Bogie and Kimba",
-        "url": "https://nypost.com/2024/03/30/us-news/nyc-dogs-and-locals-dress-to-impress-at-easter-parade/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/brooklyn-new-york-grace-abbott-79210024.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2024-03-30T14:49:32Z",
-        "content": "Easter on Fifth Avenue will be pawsitively pastel.\r\nAmongst the revelers decked out in creative and colorful hats at this year’s Easter Parade and Bonnet Festival, twin chihuahuas Bogie and Kimba wil… [+4108 chars]"
+      "author": "Justine Calma",
+      "title": "Babies born this year face a $500,000 climate bill",
+      "description": "A new study commissioned by Consumer Reports estimates rising cost of living expenses with climate change for a baby born in 2024.",
+      "url": "https://www.theverge.com/2024/4/16/24131880/baby-climate-change-costs-consumer-reports-study",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5Ag2qqSiTAkivbCLGWRD48EzVrM=/0x0:3600x2400/1200x628/filters:focal(1800x1200:1801x1201)/cdn.vox-cdn.com/uploads/chorus_asset/file/25402769/1229946018.jpg",
+      "publishedAt": "2024-04-16T16:11:13Z",
+      "content": "Babies born this year face a $500,000 climate bill\r\nBabies born this year face a $500,000 climate bill\r\n / Cost of living expenses in the US skyrocket in a hotter world, but its not too late to chang… [+5163 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "tomandlorenzo.com"
-        },
-        "author": "Lorenzo Marquez",
-        "title": "T LOunge for April 1st 2024",
-        "description": "Florentine Bar and Restaurant – Stockholm, Sweden GRANDIOSITY! You’re soaking in it, darlings. And why not? It’s MONDAY, after all. If you can’t get a little grandiose on the worst day of the week, well when can you? Plant yourself under your favorite god or …",
-        "url": "https://tomandlorenzo.com/2024/04/t-lounge-for-april-1st-2024/",
-        "urlToImage": "https://tomandlorenzo.com/wp-content/uploads/2024/03/Bars-Restaurants-Cafes-Lounges-4-1-2024-Tom-Lorenzo-Site-1.jpg",
-        "publishedAt": "2024-04-01T13:30:28Z",
-        "content": "Pin\r\nPin\r\nPinFlorentine Bar and Restaurant – Stockholm, Sweden\r\nGRANDIOSITY! You’re soaking in it, darlings. And why not? It’s MONDAY, after all. If you can’t get a little grandiose on the worst day … [+15239 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Rapid review finds 'enduring' concerns at NHS trust",
+      "description": "The review of the NHS trust that treated the Nottingham attacks killer finds \"ongoing concerns\".",
+      "url": "https://www.bbc.co.uk/news/uk-england-nottinghamshire-68659691",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2499/production/_132396390_rampton.jpg",
+      "publishedAt": "2024-03-26T10:21:02Z",
+      "content": "A government-ordered rapid review prompted by the Nottingham attacks has found \"enduring areas of concern\" at a mental health trust.\r\nThe Care Quality Commission (CQC) said there were continuing issu… [+2288 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "New York Post"
-        },
-        "author": "Isabel Vincent",
-        "title": "Ultra-trendy midwifery company backed by Chelsea Clinton is sued after baby is born with brain damage",
-        "description": "Oula is a multi-million dollar start-up backed by Clinton. It offers midwife-led births but is accused of negligence after a baby's brain damage at birth.",
-        "url": "https://nypost.com/2024/04/11/lifestyle/midwife-start-up-funded-by-chelsea-clinic-hit-with-lawsuit/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/2024-atlanta-georgia-formerly-known-74853558.jpg?quality=75&strip=all&w=1024",
-        "publishedAt": "2024-04-11T10:00:00Z",
-        "content": "It’s a multi-million dollar start-up backed by Chelsea Clinton and Glamour magazine which claims to be “redesigning” how women give birth.\r\nOula operates from two clinics designed to look like interi… [+7145 chars]"
+      "author": "Allie Kelly",
+      "title": "Hospital wait times will still be bad this year, even with labor gains",
+      "description": "The US may be recovering from a physician shortage, but don't expect to spend less time in hospital waiting rooms this year.",
+      "url": "https://www.businessinsider.com/why-hospital-wait-times-are-bad-physician-shortage-low-pay-2024-4",
+      "urlToImage": "https://i.insider.com/6620225b10c6b0cde5f07560?width=1200&format=jpeg",
+      "publishedAt": "2024-04-19T10:03:01Z",
+      "content": "The US is slowly recovering from a physician shortage.ER Productions Limited/Getty Images\r\n<ul><li>The US is recovering from a physician shortage and worker numbers remain below pre-pandemic trends.<… [+5265 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Kw.be"
-        },
-        "author": "Wouter Vander Stricht",
-        "title": "“Als eerste op de markt en laatste om te vertrekken”: derde generatie familie Deblauwe verkoopt groenten en fruit",
-        "description": "Mario Deblauwe (46) krijgt nog altijd de hulp van zijn pa Norbert (75), die ook al in de voetsporen van zijn vader Jerome stapte. Een marktkramersfamilie pur sang. “En we doen het nog altijd graag, al is het hard werken en zijn het lange dagen.”\nThe post “Als…",
-        "url": "https://kw.be/nieuws/economie/als-eerste-op-de-markt-en-laatste-om-te-vertrekken-derde-generatie-familie-deblauwe-verkoopt-groenten-en-fruit/",
-        "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/5712686/b823665021z-1-20240411064031-000gqi48iij3-1-0-jpg.jpg",
-        "publishedAt": "2024-04-11T04:42:22Z",
-        "content": "Mario Deblauwe (46) krijgt nog altijd de hulp van zijn pa Norbert (75), die ook al in de voetsporen van zijn vader Jerome stapte. Een marktkramersfamilie pur sang. En we doen het nog altijd graag, al… [+5885 chars]"
+      "author": "Shelby Livingston",
+      "title": "Big corporations are quietly taking over your medical practice. Some doctors and experts say it's ruining healthcare.",
+      "description": "Corporate owners, from UnitedHealth to private-equity firms, are devouring physician practices, making independent doctors a relic of the past.",
+      "url": "https://www.businessinsider.com/big-corporations-unitedhealth-optum-cvs-walgreens-taking-over-healthcare-industry-2024-4",
+      "urlToImage": "https://i.insider.com/660dbae016bde8d4ead56951?width=1200&format=jpeg",
+      "publishedAt": "2024-04-11T19:36:55Z",
+      "content": "Niwat Khongpraphat/Getty, MAXSHOT/Getty, SilverV/Getty, Tyler Le/BI\r\n<ul><li>Big businesses such as hospital systems, insurers, and PE firms are gobbling up medical clinics.</li><li>Some doctors and … [+14860 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Heavenlyhomemakers.com"
-        },
-        "author": "Laura",
-        "title": "Big Family Food and Fun: March 17-23, 2024",
-        "description": "Here’s our Big Family Food and Fun: March 17-23, 2024 post! Big Family Food and Fun: March 17-23, 2024 We had been gone all day the day before, so this Sunday started off with an easy breakfast of Breakfast Cookies from the freezer. We were finally able to me…",
-        "url": "https://www.heavenlyhomemakers.com/big-family-food-and-fun-march-17-23-2024",
-        "urlToImage": "https://www.heavenlyhomemakers.com/wp-content/uploads/2024/03/food-and-fun-mar17.png",
-        "publishedAt": "2024-03-24T18:00:40Z",
-        "content": "Here’s our Big Family Food and Fun: March 17-23, 2024 post!\r\nWe had been gone all day the day before, so this Sunday started off with an easy breakfast of Breakfast Cookies from the freezer.\r\nWe were… [+10331 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Gender care 'culture of secrecy' must end, says health secretary",
+      "description": "Victoria Atkins criticises a \"culture of secrecy\" in gender support and treatment for children.",
+      "url": "https://www.bbc.co.uk/news/uk-68786030",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8612/production/_133122343_gettyimages-1485549148.jpg",
+      "publishedAt": "2024-04-11T08:53:00Z",
+      "content": "Health Secretary Victoria Atkins says she has had \"enough\" of a \"culture of secrecy and ideology\" around gender care for children.\r\nWriting in the Daily Telegraph, she criticised NHS England practiti… [+5001 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "redflagdeals.com"
-        },
-        "author": null,
-        "title": "Cara Cara Oranges or Clementines - $3.88",
-        "description": "Cara cara oranges 3 lb, product of U.S.A. or clementines 2 lb, product of U.S.A. or Morocco No. 1 grade. Fresh value. 2 lb, 3 lb. April 17-23, 2024.",
-        "url": "https://www.redflagdeals.com/deal/groceries/cara-cara-oranges-or-clementines/",
-        "urlToImage": "https://q.dam-img.rfdcontent.com/offers/013/859/128/600x600_smart_fit.jpg",
-        "publishedAt": "2024-04-17T04:00:01Z",
-        "content": "Asparagus 1 lb, product of Mexico, no. 1 grade or tomatoes 4 pack, product of Canada, Canada no. 1 g...\r\nSee More"
+      "author": "Dr. Camry Kelly, Dr. Ashley Yoo",
+      "title": "OJ Simpson dies after prostate cancer diagnosis: What to know about PSA screening",
+      "description": "Suggestions are not uniform and need to be discussed with a healthcare provider.",
+      "url": "https://abcnews.go.com/GMA/Wellness/oj-simpson-dies-after-prostate-cancer-diagnosis-psa/story?id=109149892",
+      "urlToImage": "https://i.abcnewsfe.com/a/6f5ab1bf-59e4-4198-90ae-cdca44a17842/oj-gty-er-240411_1712874683769_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-11T23:30:53Z",
+      "content": "O.J. Simpson died at 76 following a diagnosis of prostate cancer, which is the second-leading cause of cancer deaths according to the American Cancer Association.\r\nIn May 2023, Simpson posted a video… [+4477 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "STLtoday.com"
-        },
-        "author": "By Ian Froeb St. Louis Post-Dispatch",
-        "title": "Ian Froeb’s STL 100: The best St. Louis restaurants of 2024",
-        "description": "Looking for a St. Louis area restaurant? Post-Dispatch restaurant critic Ian Froeb picks 100 essential spots for 2024.",
-        "url": "https://www.stltoday.com/life-entertainment/local/food-drink/restaurants/best-restaurants-in-st-louis-stl-100/article_32b29e66-e16c-11ee-91ac-0f41a6733f29.html",
-        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/2b/32b29e66-e16c-11ee-91ac-0f41a6733f29/660ef6cbb58d8.preview.png?crop=1800%2C945%2C0%2C27&resize=1200%2C630&order=crop%2Cresize",
-        "publishedAt": "2024-04-11T15:30:00Z",
-        "content": "This years STL 100 is brought to you by my car. It's not even two years old yet, but has already been racking up miles in search of St. Louis' best, most exciting restaurants.\r\nSeriously, I needed on… [+118824 chars]"
+      "author": "Andy Greenberg",
+      "title": "A Vigilante Hacker Took Down North Korea’s Internet. Now He’s Taking Off His Mask",
+      "description": "As “P4x,” Alejandro Caceres single-handedly disrupted the internet of an entire country. Then he tried to show the US military how it can—and should—adopt his methods.",
+      "url": "https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/",
+      "urlToImage": "https://media.wired.com/photos/660d9b183dcd47024015ca40/191:100/w_1280,c_limit/P4x-Security-DVN_8879.jpeg",
+      "publishedAt": "2024-04-04T09:00:00Z",
+      "content": "That's not nice, and its not a good norm, says Schneider. She says that much of the US governments slow approach to cyberattacks stems from its care to ensure it avoids unintentionally hitting civili… [+3775 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      {
-        "source": {
-          "id": null,
-          "name": "Plos.org"
-        },
-        "author": "Najia El Frakchi, Khaoula El Kinany, Marwa El Baldi, Younes Saoud, Karima El Rhazi",
-        "title": "Dietary total antioxidant capacity of Moroccan Type 2 Diabetes Mellitus patients",
-        "description": "Aims A new approach to a healthy diet is the assessment of dietary Total Antioxidant Capacity (TAC). The aim of this study was to assess the dietary TAC among Moroccan Type 2 Diabetes Mellitus (T2DM) patients and identify the main food sources contributing to…",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301805",
-        "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0301805.g002&size=inline",
-        "publishedAt": "2024-04-16T14:00:00Z",
-        "content": "Citation: El Frakchi N, El Kinany K, El Baldi M, Saoud Y, El Rhazi K (2024) Dietary total antioxidant capacity of Moroccan Type 2 Diabetes Mellitus patients. PLoS ONE 19(4):\r\n e0301805.\r\nhttps://doi.… [+25715 chars]"
-      }
-    ]
-  }
+      "author": "Allie Kelly",
+      "title": "Gen Zers and millennials are skipping the doctor's office because they can't afford the bills",
+      "description": "About two-thirds of Gen Zers and millennials avoided medical appointments last year because of high costs.",
+      "url": "https://www.businessinsider.com/gen-z-millennials-giving-up-medical-care-cant-afford-costs-2024-2",
+      "urlToImage": "https://i.insider.com/660c70e41caec1275a6c2f78?width=1200&format=jpeg",
+      "publishedAt": "2024-04-04T10:03:01Z",
+      "content": "Many young people are choosing to skip medical appointments because of high costs.Catherine McQueen / Getty Images\r\n<ul><li>Two-thirds of young adults skipped medical appointments in 2024 due to high… [+3832 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "NHS AI test spots tiny cancers missed by doctors",
+      "description": "An AI tool called Mia found missed breast cancer symptoms in the scans of 11 women during an NHS test.",
+      "url": "https://www.bbc.co.uk/news/technology-68607059",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD3D/production/_132973665_ca85e0c2-e68f-4f0c-8d5c-8079047b86ad.jpg",
+      "publishedAt": "2024-03-21T01:16:08Z",
+      "content": "An AI tool tested by an NHS hospital trust successfully identified tiny signs of breast cancer in 11 women which had been missed by human doctors.\r\nThe tool, called Mia, was piloted alongside NHS cli… [+5451 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jacob Zinkula",
+      "title": "A millennial who moved to Canada for the quality of life shares why he wants to go back to Texas — and why he regrets not waiting to relocate until later in life",
+      "description": "A millennial moved to Canada to \"get cultured.\" Despite the great quality of life, he wants to move back to Texas.",
+      "url": "https://www.businessinsider.com/american-millennial-moved-canada-from-texas-healthcare-weather-housing-culture-2024-4",
+      "urlToImage": "https://i.insider.com/661e961c10c6b0cde5efde62?width=1200&format=jpeg",
+      "publishedAt": "2024-04-17T10:03:01Z",
+      "content": "A millennial who moved from the South to Montreal says the quality of life is great but that he wants to return to his home state of Texas.Dexter Linton\r\n<ul><li>A millennial moved from the South to … [+4103 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ioanna Lykiardopoulou",
+      "title": "Startup building ‘biowearables’ for chronic kidney disease nets €2.3M",
+      "description": "Paris-based Metyos has raised €2.3mn in pre-seed funding to improve the lives and health outcomes of chronic kidney disease patients with its biowearable technology. Chronic kidney disease (CKD) affects 10% of the population and is the third fastest-growing c…",
+      "url": "https://thenextweb.com/news/startup-building-biowearables-chronic-kidney-disease",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FParis-based-Metyos-raises-E2.3M-to-help-chronic-kidney-disease-patients-w.jpg&signature=6104d7e96a624eca6a82208fb6281665",
+      "publishedAt": "2024-03-26T08:00:01Z",
+      "content": "Paris-based Metyos has raised 2.3mn in pre-seed funding to improve the lives and health outcomes of chronic kidney disease patients with its biowearable technology.\r\nChronic kidney disease (CKD) affe… [+2413 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Watchdog to review patient safety at A&E department",
+      "description": "Doctors at Glasgow's Queen Elizabeth University Hospital say patient safety is being \"seriously compromised\".",
+      "url": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68731978",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10303/production/_131770366_f8a9d4462ae3070405100d348dcf50a5aea9fc44.jpg",
+      "publishedAt": "2024-04-04T11:19:04Z",
+      "content": "Patient safety in the Accident &amp; Emergency unit at the Queen Elizabeth University Hospital in Glasgow will be reviewed by an NHS watchdog.\r\nHealthcare Improvement Scotland (HIS) was first contact… [+4494 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Medicare Will Cover Wegovy, but Only for Patients With Serious Heart Risks",
+      "description": "The cost of Wegovy will soon be covered by Medicare, according to an announcement from the federal health insurance program for seniors on Thursday. And while that’s great news for people over 65 who want access to a medication that’s drawn so much attention …",
+      "url": "https://gizmodo.com/wegovy-ozempic-cost-novo-nordisk-free-medicare-coverage-1851357184",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f406a89928312590afa65f873ebd8545.jpg",
+      "publishedAt": "2024-03-21T22:00:00Z",
+      "content": "The cost of Wegovy will soon be covered by Medicare, according to an announcement from the federal health insurance program for seniors on Thursday. And while thats great news for people over 65 who … [+2827 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Healthcare AI won't take jobs – it'll make nursing easier, says process automation founder",
+      "description": "Something's gotta give in short-staffed, overworked healthcare industry, says Thoughtful cofounder and CPO\nInterview Companies are sticking AI everywhere they can right now - including injecting it into frontline healthcare. The benefits of healthcare AI are …",
+      "url": "https://www.theregister.com/2024/04/10/healthcare_ai_interview/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/09/shutterstock_nurse_scrubs_tablet.jpg",
+      "publishedAt": "2024-04-10T16:45:07Z",
+      "content": "Interview Companies are sticking AI everywhere they can right now - including injecting it into frontline healthcare. The benefits of healthcare AI are still up for debate, but Dan Parsons, cofounder… [+1756 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "The Papers: Major gender care review, and 'Mr Bates vs thugs in suits'",
+      "description": "Wednesday's papers report on an NHS paediatric gender care review and drama at the Post Office inquiry.",
+      "url": "https://www.bbc.co.uk/news/blogs-the-papers-68775970",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12201/production/_133114247_index.png",
+      "publishedAt": "2024-04-09T22:58:58Z",
+      "content": "Image caption, Leading Wednesday's coverage across most of the papers is a newly published review by paediatrician Hilary Cass into NHS provision of gender care for children. The Daily Telegraph high… [+3208 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "NI sees 20% rise in 18-49 cancer diagnoses",
+      "description": "Research looking at figures between 1993 and 2019 show more people under 50 are being diagnosed.",
+      "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68651767",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1833C/production/_117523199_gettyimages-1181729555.jpg",
+      "publishedAt": "2024-03-25T06:11:48Z",
+      "content": "Cancers diagnosed in people aged between 18 and 49 in Northern Ireland have risen by 20% in the past 25 years, according to new research,\r\nQueen's University Belfast and the NI Cancer Registry compar… [+3750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sarah Fielding",
+      "title": "Meta and Google face claims of restricting reproductive health ads and fueling misinformation",
+      "description": "A new report found Meta and Google are restricting reproductive health information in Asia, Africa and Latin America. MSI Reproductive Choices and the Center for Countering Digital Hate, which partnered on the report, claim that the companies have restricted …",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bc43bc2b-7329-4817-82e8-ca0eda5a9252",
+      "urlToImage": null,
+      "publishedAt": "2024-03-28T13:29:13Z",
+      "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "New cause of asthma damage revealed",
+      "description": "Cells lining the airways are squeezed to destruction, setting up a cycle of harm, lab studies suggest.",
+      "url": "https://www.bbc.co.uk/news/health-68731197",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80AF/production/_103934923_m1090229-girl_using_asthma_inhaler-spl.jpg",
+      "publishedAt": "2024-04-04T23:00:37Z",
+      "content": "UK scientists say they have found a new cause behind much of the damage asthma causes. \r\nCells lining the airways are squeezed to destruction during an attack, their research shows.\r\nAnd drugs to pre… [+2861 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Thomas Macaulay",
+      "title": "AI tool that creates digital twins of patients can predict future diseases",
+      "description": "An AI tool that creates digital twins of patients can predict our future health, according to a new study. Named Foresight, the tool uses generative pre-trained transformers, the same family of large language models (LLMs) used by ChatGPT.  Researchers in the…",
+      "url": "https://thenextweb.com/news/ai-patient-digital-twins-predicts-future-diseases",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-1-2.jpg&signature=413d4e6b861cb7e4dfa882f225c39aae",
+      "publishedAt": "2024-03-21T11:55:26Z",
+      "content": "An AI tool that creates digital twins of patients can predict our future health, according to a new study.\r\nNamed Foresight, the tool uses generative pre-trained transformers, the same family of larg… [+1530 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Andy Greenberg, Andrew Couts",
+      "title": "Roku Breach Hits 567,000 Users",
+      "description": "Plus: Apple warns iPhone users about spyware attacks, CISA issues an emergency directive about a Microsoft breach, and a ransomware hacker tangles with an unimpressed HR manager named Beth.",
+      "url": "https://www.wired.com/story/roku-breach-hits-567000-users/",
+      "urlToImage": "https://media.wired.com/photos/66199a7b3043e26dbcbb751d/191:100/w_1280,c_limit/Roku-Data-Breach-GettyImages-1531859615.jpg",
+      "publishedAt": "2024-04-13T10:30:00Z",
+      "content": "After months of delays, the US House of Representatives voted on Friday to extend a controversial warrantless wiretap program for two years. Known as Section 702, the program authorizes the US govern… [+6528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "EditorDavid",
+      "title": "Is Microsoft Working on 'Performant Sound Recognition' AI Technologies?",
+      "description": "Windows Report speculates on what Microsoft may be working on next based on a recently-published patent for \"performant sound recognition AI technologies\" (dated April 2, 2024):\n\n\n\nMicrosoft's new technology can recognize different types of sounds, from doorb…",
+      "url": "https://slashdot.org/story/24/04/07/039225/is-microsoft-working-on-performant-sound-recognition-ai-technologies",
+      "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+      "publishedAt": "2024-04-07T04:44:00Z",
+      "content": "Microsoft's new technology can recognize different types of sounds, from doorbells to babies crying, or dogs barking, but not limited to them. It can also recognize sounds of coughing or breathing di… [+1167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Nearly 3M people hit in Harvard Pilgrim healthcare data theft",
+      "description": "Also, TheMoon botnet back for EoL SOHO routers, Sellafield to be prosecuted for 'infosec failures', plus critical vulns\nInfosec in brief Nearly a year on from the discovery of a massive data theft at healthcare biz Harvard Pilgrim, and the number of victims h…",
+      "url": "https://www.theregister.com/2024/04/01/in_brief_security/",
+      "urlToImage": "https://regmedia.co.uk/2024/03/29/health_shutterstock.jpg",
+      "publishedAt": "2024-04-01T14:45:44Z",
+      "content": "Infosec in brief Nearly a year on from the discovery of a massive data theft at healthcare biz Harvard Pilgrim, and the number of victims has now risen to nearly 2.9 million people in all US states.\r… [+5319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seths.blog"
+      },
+      "author": "Seth Godin",
+      "title": "Launching GOODBIDS",
+      "description": "Over the next few days, I’m going to feature a new project we launched today. A small and mighty team has been working on this for a year. I want to share the highlights along with some of the critical design choices we made along the way Each year, charities…",
+      "url": "https://seths.blog/2024/04/launching-goodbids/",
+      "urlToImage": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061310-1.jpg",
+      "publishedAt": "2024-04-10T17:10:00Z",
+      "content": "Over the next few days, Im going to feature a new project we launched today. A small and mighty team has been working on this for a year. I want to share the highlights along with some of the critica… [+1773 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Noah Sheidlower",
+      "title": "A boomer who moved to Panama after years as a bartender in the Hamptons and New Mexico outlines the pros and cons of living in Central America",
+      "description": "George Stumpp, a retired bartender, lives comfortably in Panama after working for years in New Mexico and the Hamptons.",
+      "url": "https://www.businessinsider.com/boomer-moving-to-panama-new-mexico-hamptons-best-places-move-2024-4",
+      "urlToImage": "https://i.insider.com/6617ebfc16bde8d4ead7c7ab?width=1200&format=jpeg",
+      "publishedAt": "2024-04-13T09:27:01Z",
+      "content": "George Stumpp recently moved permanently to Panama after 15 years of living there on and off.George Stumpp\r\n<ul><li>George Stumpp, a retired bartender, lives comfortably in Panama after moving from N… [+6669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rmit.edu.au"
+      },
+      "author": null,
+      "title": "Silicon spikes take out 96% of virus particles",
+      "description": "An international research team led by RMIT University has designed and manufactured a virus-killing surface that could help control disease spread.",
+      "url": "https://www.rmit.edu.au/news/all-news/2024/mar/silicon-nanospikes",
+      "urlToImage": "https://www.rmit.edu.au/content/dam/rmit/rmit-images/news/2024/march/acs-nano/ACSNanoCoverthumbnail.jpg",
+      "publishedAt": "2024-03-31T12:31:04Z",
+      "content": "Study first author, Samson Mah, who completed the work under an RMIT-CSIRO Masters by Research Scholarship and has now progressed to working on his PhD research with the team, said he was inspired by… [+819 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Quil Lawrence",
+      "title": "It's time to stop downsizing health care, the Pentagon says. This couple can't wait",
+      "description": "After a decade of outsourcing military health care, the Pentagon now plans to do the opposite, an about-face Matt and Helen Perry hope means they'll get the care they were promised after going to war.",
+      "url": "https://www.npr.org/2024/04/03/1240724195/pentagon-outsource-healthcare-tricare",
+      "urlToImage": "https://media.npr.org/assets/img/2024/03/25/photog_bruzzese_subject_matt_helen-8_wide-a80f1ed9805172b36d715df1e03aae31e2814a72-s1400-c100.jpg",
+      "publishedAt": "2024-04-03T09:01:07Z",
+      "content": "Matt and Helen Perry at their home in Yulee, Fla.\r\nMichelle Bruzzese for NPR \r\nWhen Matt and Helen Perry first met in 2010, he had been a U.S. Marine long enough to form two strong opinions. He didn'… [+12315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Workatastartup.com"
+      },
+      "author": null,
+      "title": "Empirical (YC S23) is hiring interns to build AI-enabled primary care",
+      "description": "# **About Empirical Health**\r\n\r\nWe're building the future of primary care.\r\n\r\nPrimary care is the quarterback of the healthcare system–the doctor whose job is to keep you healthy. The best primary care available today can prevent 1 in 2 hospitalizations, but …",
+      "url": "https://www.workatastartup.com/jobs/65500",
+      "urlToImage": "https://www.workatastartup.com/images/original/missing.png",
+      "publishedAt": "2024-03-22T21:01:02Z",
+      "content": "We're building the future of primary care.\r\nPrimary care is the quarterback of the healthcare systemthe doctor whose job is to keep you healthy. The best primary care available today can prevent 1 in… [+3099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Shubham Sharma",
+      "title": "Google to IBM: How big tech giants are embracing Nvidia’s new hardware and software services",
+      "description": "Nvidia shared how it is evolving its work with several industry giants by taking its newly announced AI computing infrastructure, software and services to their tech stack.",
+      "url": "https://venturebeat.com/ai/google-to-ibm-how-big-tech-giants-are-embracing-nvidias-new-hardware-and-software-services/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/03/NVIDIA-GTC-Jensen-Huang-keynote.jpg?w=1200&strip=all",
+      "publishedAt": "2024-03-20T22:13:01Z",
+      "content": "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here.\r\nNvidia has gone all in to push the boundaries of computing at the ongoing… [+1654 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Allie Kelly",
+      "title": "The Adderall shortage highlights a key issue for voters in 2024. Here's what the Biden Administration is doing about it.",
+      "description": "The shortage and increased costs could impact who many Americans vote for in the upcoming presidential election.",
+      "url": "https://www.businessinsider.com/adderall-shortage-highlights-drug-price-concerns-presidential-election-biden-2024-4",
+      "urlToImage": "https://i.insider.com/66154a7e16bde8d4ead6d8a3?width=1200&format=jpeg",
+      "publishedAt": "2024-04-12T15:01:49Z",
+      "content": "For almost two years, drug shortages have made it difficult for people to fill their Adderall prescription.Bloomberg / Getty Images\r\n<ul><li>Adderall supply issues, which began in October 2022, are m… [+5724 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Cameron Manley",
+      "title": "Miami real-estate tycoon Patrick Carroll was ordered to undergo psychiatric evaluation following bizarre gun video, report says",
+      "description": "Patrick Carroll was ordered to undergo a psychiatric evaluation and give up his firearms following reports of gunshots at his home last week.",
+      "url": "https://www.businessinsider.com/patrick-carroll-ordered-mental-health-evaluation-miami-police-instagram-2024-3",
+      "urlToImage": "https://i.insider.com/65fdadc62417f97b87ce6ee5?width=1200&format=jpeg",
+      "publishedAt": "2024-03-30T16:29:22Z",
+      "content": "Patrick Carroll.Victoria Sirakova/Getty Images\r\n<ul><li>Patrick Carroll posted clips of himself firing a shotgun outside his waterfront mansion in Miami.</li><li>Police ordered the real-estate tycoon… [+2097 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "John L. Dorman",
+      "title": "Here's why James Carville believes Biden's been 'the best president that Black America's ever had'",
+      "description": "In April 2023, the Black unemployment rate fell to 4.8%, a record low for Black citizens. It ticked up to 5.3% in January, but is lower than in 2021.",
+      "url": "https://www.businessinsider.com/james-carville-biden-black-americans-economic-gains-employment-wages-2024-3",
+      "urlToImage": "https://i.insider.com/6600868416bde8d4ead1965d?width=1200&format=jpeg",
+      "publishedAt": "2024-03-24T20:21:26Z",
+      "content": "President Joe Biden speaks about investing in clean energy manufacturing at CS Wind in Pueblo, Colorado.AP Photo/Andrew Harnik\r\n<ul><li>James Carville favorably compared Biden's record for Black Amer… [+2349 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Geoff Weiss",
+      "title": "23andMe's business is basically worthless. Its CEO now wants to buy it.",
+      "description": "23andMe chief Anne Wojcicki notified the board and will begin seeking funding to take the struggling DNA company private, per an SEC filing.",
+      "url": "https://www.businessinsider.com/23andme-ceo-anne-wojcicki-wants-to-struggling-company-private-2024-4",
+      "urlToImage": "https://i.insider.com/66213d1d49058e66935743cb?width=1200&format=jpeg",
+      "publishedAt": "2024-04-18T16:58:53Z",
+      "content": "Anne Wojcicki, the CEO of 23andme, announced plans to buy the company and take it private.ETIENNE LAURENT/AFP via Getty Images\r\n<ul><li>23andMe cofounder and CEO Anne Wojcicki wants to take the once-… [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Florida is new epicentre in US abortion battle",
+      "description": "A six-week abortion ban will soon take effect but voters may undo it, as rest of nation watches closely.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68719492",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1409C/production/_133067028_gettyimages-2110561340.jpg",
+      "publishedAt": "2024-04-03T15:09:34Z",
+      "content": "Florida's Supreme Court delivered two rulings on abortion on Monday, with competing consequences.\r\nFirst, the court upheld the state's right to prohibit abortion, giving the green light for a six-wee… [+5351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "185K people's sensitive data in the pits after ransomware raid on Cherry Health",
+      "description": "Extent of information seized will be a concern for those affected\nRansomware strikes at yet another US healthcare organization led to the theft of sensitive data belonging to just shy of 185,000 people.…",
+      "url": "https://www.theregister.com/2024/04/18/ransomware_cherry_health/",
+      "urlToImage": "https://regmedia.co.uk/2023/12/21/shutterstock_hospital_haxxx0r.jpg",
+      "publishedAt": "2024-04-18T14:00:15Z",
+      "content": "Ransomware strikes at yet another US healthcare organization led to the theft of sensitive data belonging to just shy of 185,000 people.\r\nMichigan-based Cherry Health reported a data breach to regula… [+2897 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Wait for gender support frustrating, trans woman says",
+      "description": "Sonja was speaking as a review said children were let down by a lack of research into gender services.",
+      "url": "https://www.bbc.co.uk/news/health-68778922",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149ED/production/_133116448_thumbnail_image003.jpg",
+      "publishedAt": "2024-04-10T17:10:45Z",
+      "content": "A landmark review has said that children have been let down by \"remarkably weak\" evidence on medical interventions in gender care.\r\nPeople who have accessed support services and their families told t… [+5602 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Sketchy Botox shots spark multistate outbreak of botulism-like condition",
+      "description": "So far at least six people in two states have fallen ill; four of them were hospitalized.",
+      "url": "https://arstechnica.com/science/2024/04/sketchy-botox-shots-spark-multistate-outbreak-of-botulism-like-condition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-534988712-760x380.jpeg",
+      "publishedAt": "2024-04-11T21:57:30Z",
+      "content": "Enlarge/ A woman in New Jersey receiving a Botox treatment at a Botox party in a New Jersey salon hosted by a radio station.\r\n8\r\nSketchy cosmetic injections of what seem to be counterfeit Botox are b… [+3053 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Ransomware can mean life or death at hospitals, but DEF CON hackers have a plan",
+      "description": "ARPA-H joins the challenge, adds $20M to cash rewards\nInterview As ransomware gangs target critical infrastructure – especially hospitals and other healthcare organizations – DARPA has added another government agency partner to its Artificial Intelligence Cyb…",
+      "url": "https://www.theregister.com/2024/03/26/aixcc_healthcare/",
+      "urlToImage": "https://regmedia.co.uk/2024/03/25/healthcare_shutterstock.jpg",
+      "publishedAt": "2024-03-26T13:15:12Z",
+      "content": "Interview As ransomware gangs target critical infrastructure especially hospitals and other healthcare organizations DARPA has added another government agency partner to its Artificial Intelligence C… [+5439 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Madison Hoff",
+      "title": "The top 15 companies for career growth if you work in the US, according to LinkedIn",
+      "description": "JPMorgan Chase & Co. was at the top of LinkedIn's new company list focused on career growth. Verizon and Northrop Grumman were part of the top 15.",
+      "url": "https://www.businessinsider.com/amazon-pwc-wells-fargo-best-companies-career-growth-linkedin-ranking-2024-4",
+      "urlToImage": "https://i.insider.com/661e81ff49058e6693565ef2?width=1200&format=jpeg",
+      "publishedAt": "2024-04-17T15:19:20Z",
+      "content": "JPMorgan Chase & Co.Leonardo Munoz/VIEWpress/Corbis via Getty Images\r\n<ul><li>LinkedIn published a ranking of the best large companies for career growth in the US.</li><li>Amazon ranked No. 2; Northr… [+9791 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dan DeFrancesco",
+      "title": "Earnings season is here. These are the biggest storylines the market is watching.",
+      "description": "In today's big story, we're looking at what to expect during a critical earnings season.",
+      "url": "https://www.businessinsider.com/earnings-seasons-q2-preview-tech-markets-stocks-2024-4",
+      "urlToImage": "https://i.insider.com/661d271916bde8d4ead8dbde?width=1200&format=jpeg",
+      "publishedAt": "2024-04-15T13:18:12Z",
+      "content": "The Wall Street bullReuters/herval\r\n<ul><li>This post originally appeared in the Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Welcome back!… [+8261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ReadWrite"
+      },
+      "author": "Sophie Atkinson",
+      "title": "Canada announces $2.4 billion for AI-related investments",
+      "description": "Canada is now focusing on a big artificial intelligence push, with $2.4 billion set aside for AI-related investments to improve… Continue reading Canada announces $2.4 billion for AI-related investments\nThe post Canada announces $2.4 billion for AI-related in…",
+      "url": "https://readwrite.com/canada-announces-2-4-billion-for-ai-related-investments/",
+      "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/jason-hafso-C2keINMOhIE-unsplash-scaled.jpg",
+      "publishedAt": "2024-04-08T09:38:04Z",
+      "content": "Canada is now focusing on a big artificial intelligence push, with $2.4 billion set aside for AI-related investments to improve job growth and boost productivity.\r\nIn a government press release publi… [+2351 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Former Marine jailed for bombing abortion clinic",
+      "description": "Chance Brannon is jailed for nine years for California attack and plot to spark a neo-Nazi \"race war\".",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68828076",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FF38/production/_133163356_8ddb5ffe1733da25ed16bbc89e801182.jpg",
+      "publishedAt": "2024-04-16T14:30:06Z",
+      "content": "A former US Marine has been jailed for nine years for firebombing a California Planned Parenthood clinic and plotting other attacks to spark a \"race war\".\r\nChance Brannon, 24, pleaded guilty to the M… [+1647 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Ask HN: How do you ask users about their pain point?",
+      "description": "Comments",
+      "url": "https://news.ycombinator.com/item?id=40079835",
+      "urlToImage": null,
+      "publishedAt": "2024-04-18T19:25:35Z",
+      "content": "In the realm of cold calling / emailing, 1% conversion is actually pretty normal. 2-5% would be unusually good. I would stick with what you're doing and don't lose faith!If you want to try different … [+1522 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "'Escorted through the airport like a criminal'",
+      "description": "Travellers share their experiences of getting caught out by the EU's 10-year-passport rule.",
+      "url": "https://www.bbc.co.uk/news/business-68677938",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F887/production/_133032636_janeandherhusband.jpg",
+      "publishedAt": "2024-03-29T22:09:13Z",
+      "content": "Disappointed holidaymakers whose EU travel plans were ruined when they were caught out by the \"10-year-passport rule\" have been speaking to the BBC.\r\nUntil 2018, UK travellers could transfer up to ni… [+6552 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Miles Klee",
+      "title": "‘Hype and Magical Thinking’: The AI Healthcare Boom Is Here",
+      "description": "Big Tech is rushing out apps to help diagnose illness, prescribe drugs, and track your medical history — but can an algorithm replace your doctor?",
+      "url": "http://www.rollingstone.com/culture/culture-features/ai-health-care-patient-safety-privacy-1235006118/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/04/AI-doctors.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-04-18T17:57:17Z",
+      "content": "Artificial intelligence tech has infiltrated every industry, and health care is no exception. We now have Together by Renee, an app that tracks your medical history, aims to gauge your blood pressure… [+9983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Regan McCarthy",
+      "title": "A push is underway for voters to make Florida the next state to expand Medicaid",
+      "description": "For a decade, Florida lawmakers have debated whether to expand Medicaid under the Affordable Care Act. Advocates are trying to circumvent the legislature and take the issue directly to voters.",
+      "url": "https://www.npr.org/2024/03/22/1240124290/medicaid-florida-health-care-ballot-voters-expansion-obamacare",
+      "urlToImage": "https://media.npr.org/assets/img/2024/03/22/ap22312810201495_wide-148015384db4f16544281b849b2e0adde46c7761-s1400-c100.jpg",
+      "publishedAt": "2024-03-22T11:27:57Z",
+      "content": "A sign tells voters in English and Spanish where to vote as Lee County voters wait in line to cast their ballots at Northeast Regional Library in Cape Coral, Fla., on Election Day, Tuesday, Nov. 8, 2… [+6639 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sponsor Post",
+      "title": "The changing face of Asian cities",
+      "description": "A new approach to developing cities in Asia could have a significant impact on greenhouse gas emissions.",
+      "url": "https://www.businessinsider.com/sc/how-to-make-cities-more-eco-friendly",
+      "urlToImage": "https://i.insider.com/65fd5bd62417f97b87ce4f9b?width=1200&format=jpeg",
+      "publishedAt": "2024-03-22T13:30:31Z",
+      "content": "An artist's impression of Sunway City Iskandar Puteri, MalaysiaSunway\r\nCities occupy a fraction of the Earth's surface but produce almost two-thirds of greenhouse gas emissions. A new approach to dev… [+8055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AOL"
+      },
+      "author": "Ashley Capoot, CNBC",
+      "title": "UnitedHealth Group has paid more than $2B to providers following cyberattack",
+      "description": "UnitedHealth Group said Monday that it’s paid out more than $2 billion to help health-care providers who have been affected by the cyberattack on subsidiary ...",
+      "url": "https://www.aol.com/news/unitedhealth-group-paid-more-2-125226015.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Y3xokTEBF6BA1k_X0Fn7Mw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/6260b75f61e0b9848109bf1e0c97272f",
+      "publishedAt": "2024-03-21T13:37:45Z",
+      "content": "UnitedHealth Group said Monday that its paid out more than $2 billion to help health-care providers who have been affected by the cyberattack on subsidiary Change Healthcare.\r\nWe continue to make sig… [+2905 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "New hope for sisters trapped in their bodies",
+      "description": "Neuroferritinopathy is a brain disease which traps people, mostly from one family, in their bodies.",
+      "url": "https://www.bbc.co.uk/news/uk-england-cumbria-68596561",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C5B8/production/_132961605_fe152611-1f16-4933-b39c-1fec61a96161.jpg",
+      "publishedAt": "2024-03-21T01:23:58Z",
+      "content": "Neuroferritinopathy is a rare brain condition that traps people in their bodies and seems to largely affect descendants of one family. As a university launches a drugs trial in a hope of reversing it… [+6166 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Change Healthcare’s ransomware attack costs edge toward $1B so far",
+      "description": "First glimpse at attack financials reveals huge pain\nUnitedHealth, parent company of ransomware-besieged Change Healthcare, says the total costs of tending to the February cyberattack for the first calendar quarter of 2024 currently stands at $872 million.…<!…",
+      "url": "https://www.theregister.com/2024/04/16/change_healthcares_ransomware_attack_has/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/24/cash.jpg",
+      "publishedAt": "2024-04-16T12:50:33Z",
+      "content": "UnitedHealth, parent company of ransomware-besieged Change Healthcare, says the total costs of tending to the February cyberattack for the first calendar quarter of 2024 currently stands at $872 mill… [+2841 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Cameron Manley",
+      "title": "A woman who suffered a brain injury after a fall lost out on $750,000 compensation after a judge branded her 'dishonest'",
+      "description": "Kirsty Williams-Henry lost out on $750,000 in compensation after being found dishonest in her injury claim against the owners of a pier.",
+      "url": "https://www.businessinsider.com/dishonest-injury-claim-lost-compensation-woman-wales-2024-4",
+      "urlToImage": "https://i.insider.com/661b95751caec1275a6ff5fe?width=1200&format=jpeg",
+      "publishedAt": "2024-04-14T13:36:57Z",
+      "content": "A man walks his dog on Aberavon beach near Port Talbot in WalesGetty Images\r\n<ul><li>A woman who suffered a brain injury after falling from a pier lost out on $750,000 in compensation.</li><li>The ju… [+3012 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Mia Jankowicz",
+      "title": "Colorado enacted a law meant to stop tech companies sharing your brain-wave data",
+      "description": "Colorado lawmakers signed a law to protect biological and neural data from being shared by consumer neurotech players like Elon Musk's Neuralink.",
+      "url": "https://www.businessinsider.com/colorado-signs-bill-protect-privacy-rights-neurotechnology-neuralink-musk-2024-4",
+      "urlToImage": "https://i.insider.com/66211b7320b15f0ff4290f3d?width=1200&format=jpeg",
+      "publishedAt": "2024-04-18T13:40:04Z",
+      "content": "Neuralink surgical robot.Woke Studios\r\n<ul><li>Colorado lawmakers have signed a bill aimed at protecting privacy in the burgeoning field of neurotech.</li><li>The act expands the definition of \"sensi… [+3060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cheezburger.com"
+      },
+      "author": "Jesse Kessenheimer, Jesse Kessenheimer",
+      "title": "Thrifty mom finds a loophole after getting conned by her insurance provider, scoring $0 healthcare for her newborn baby: ‘Thanks for not caring about your employees'",
+      "description": "Health insurance can be expensive. While many of us have spent at least a short stint of our lives wondering how we're going to pay for healthcare, it's usually not in our first few months on earth. However, if you're the lucky baby in our next story, you hav…",
+      "url": "https://cheezburger.com/25046277/thrifty-mom-finds-a-loophole-after-getting-conned-by-her-insurance-provider-scoring-0-healthcare-for",
+      "urlToImage": "https://i.chzbgr.com/thumb1200/25046277/hDA23DA73/mommy-insurance-health-healthcare-loophole-thrifty-newborn-baby-babies-wholesome-story-lucky-reddit",
+      "publishedAt": "2024-03-20T16:00:00Z",
+      "content": "Health insurance can be expensive. While many of us have spent at least a short stint of our lives wondering how we're going to pay for healthcare, it's usually not in our first few months on earth. … [+767 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Why has Arizona re-enacted a 160-year-old abortion ban?",
+      "description": "State court’s ruling could have far-reaching implications for women’s healthcare and the November elections.",
+      "url": "https://www.aljazeera.com/features/2024/4/10/what-is-arizonas-160-year-old-abortion-ban",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AP24100757103907-1712737180.jpg?resize=1200%2C675",
+      "publishedAt": "2024-04-10T13:24:08Z",
+      "content": "Arizonas Supreme Court has ruled that a 160-year-old law that places a near total ban on abortions may go back into effect in 14 days.\r\nThe court, which ruled 4-2 in favour of reinstating the 19th-ce… [+6685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Noupe.com"
+      },
+      "author": "Prashant Pujara",
+      "title": "How is AI adoption transforming the healthcare industry?",
+      "description": "Today healthcare leaders in both public and private sectors work to utilize the emerging and latest AI technologies to enhance patient experiences, reduce costs, and improve patient outcomes. There was a study that shows the global healthcare AI market is exp…",
+      "url": "https://www.noupe.com/business-online/how-is-ai-adoption-transforming-the-healthcare-industry.html",
+      "urlToImage": "https://www.noupe.com/wp-content/uploads/2024/04/camilo-jimenez-vGu08RYjO-s-unsplash.jpg",
+      "publishedAt": "2024-04-18T11:33:13Z",
+      "content": "Today healthcare leaders in both public and private sectors work to utilize the emerging and latest AI technologies to enhance patient experiences, reduce costs, and improve patient outcomes. There w… [+6504 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Super gonorrhea rate quickly triples in China, now 40x higher than US",
+      "description": "Drug-resistant gonorrhea is a growing problem—one that doesn't heed borders.",
+      "url": "https://arstechnica.com/science/2024/03/super-gonorrhea-rate-quickly-triples-in-china-now-40x-higher-than-us/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-966943542-760x380.jpeg",
+      "publishedAt": "2024-03-28T18:12:31Z",
+      "content": "Enlarge/ A billboard from the AIDS Healthcare Foundation is seen on Sunset Boulevard in Hollywood, California, on May 29, 2018, warning of a drug-resistant gonorrhea.\r\n22\r\nHealth officials have long … [+4963 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Hannah Demissie, Adam Carlson",
+      "title": "Fla. voters will consider abortion rights ballot measure in November, court rules",
+      "description": "A Florida abortion ballot measure can move forward to a vote in November, the state Supreme Court ruled",
+      "url": "https://abcnews.go.com/Politics/florida-voters-ballot-measure-enshrine-abortion-rights-court/story?id=108721012",
+      "urlToImage": "https://i.abcnewsfe.com/a/c607a41f-e921-4314-a0c8-fe8978daaaab/florida-gty-er-240401_1712003129672_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-01T20:52:31Z",
+      "content": "A ballot initiative that would amend Florida's Constitution and guarantee a basic standard for abortion access in the state can be put up for a vote in November, the state Supreme Court said on Monda… [+1777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Socialmediaexplorer.com"
+      },
+      "author": "Sitetrail Research Team",
+      "title": "Turnover is killing healthcare from the inside",
+      "description": "The healthcare industry is facing a crisis from within that threatens its very foundation. High turnover rates among healthcare professionals, particularly in hospitals, are presenting significant challenges to the quality, consistency, and efficiency of care…",
+      "url": "https://socialmediaexplorer.com/content-marketing-2/turnover-is-killing-healthcare-from-the-inside/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/04/Turnover-is-killing-healthcare-from-the-inside.png",
+      "publishedAt": "2024-04-03T04:06:31Z",
+      "content": "The healthcare industry is facing a crisis from within that threatens its very foundation. High turnover rates among healthcare professionals, particularly in hospitals, are presenting significant ch… [+4223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Rupsa Chakraborty",
+      "title": "‘Enact Right to Healthcare legislation to ensure quality healthcare to all’: Dr Abhay Shukla",
+      "description": "\"There's a pressing need to regulate private medical colleges, keeping their fees in line with government institutions,\" says national co-convenor of Jan Swasthya Abhiyan Dr Shukla.",
+      "url": "https://indianexpress.com/article/cities/mumbai/healthcare-quality-neet-jan-swasth-abhiyan-abhay-shukla-9256916/",
+      "urlToImage": "https://images.indianexpress.com/2024/04/1-13.jpg",
+      "publishedAt": "2024-04-07T16:34:31Z",
+      "content": "Dr Abhay Shukla, national co-convenor of Jan Swasthya Abhiyan, a coalition of NGOs and health professionals, speaks to Rupsa Chakraborty on the need for healthcare policies being prioritised by polit… [+4393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Conjoined Twin Abby Hensel's Husband is Decorated Army Vet, 3 Deployments",
+      "description": "Conjoined twin Abby Hensel's marriage to Josh Bowling is one that's filled with military service medals -- 'cause the guy is a decorated vet ... TMZ has learned. U.S. Army spokeswoman Heather J. Hagan tells TMZ ... Bowling was a healthcare…",
+      "url": "https://www.tmz.com/2024/04/02/conjoined-twin-abby-hensel-decorated-army-veteran-3-deployments/",
+      "urlToImage": "https://imagez.tmz.com/image/d7/16by9/2024/04/01/d7a30305565d4d89b0a7aa193b49d2db_xl.jpg",
+      "publishedAt": "2024-04-02T07:40:39Z",
+      "content": "Conjoined twin Abby Hensel's marriage to Josh Bowling is one that's filled with military service medals -- 'cause the guy is a decorated vet ... TMZ has learned.\r\nU.S. Army spokeswoman Heather J. Hag… [+1423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Bruce Gil",
+      "title": "Google and Bayer are using AI to help overworked radiologists",
+      "description": "Google Cloud and German healthcare giant Bayer announced Tuesday that they are working together to develop new AI tools for radiologists.Read more...",
+      "url": "https://qz.com/google-bayer-ai-radiology-1851397125",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f52e24dbe79fca7ddf9f854fecf02d03.jpg",
+      "publishedAt": "2024-04-09T14:57:00Z",
+      "content": "Google Cloud and German healthcare giant Bayer announced Tuesday that they are working together to develop new AI tools for radiologists.\r\nBayer will use Googles cloud computing technology to improve… [+1907 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Bruce Gil",
+      "title": "Neuralink rival Synchron is recruiting patients for a big brain chip clinical trial",
+      "description": "Brooklyn-based brain chip startup Synchron launched a registry Monday to recruit patients and healthcare providers ahead of a planned large-scale clinical trial.Read more...",
+      "url": "https://qz.com/synchron-elon-musk-neuralink-brain-chip-clinical-trial-1851394934",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1d7d811a5c07cc2d1cba368eafe8a39f.jpg",
+      "publishedAt": "2024-04-08T15:04:38Z",
+      "content": "Brooklyn-based brain chip startup Synchron launched a registry Monday to recruit patients and healthcare providers ahead of a planned large-scale clinical trial.\r\nThe company, a rival to Elon Musks N… [+1565 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Children used as 'guinea pigs' in clinical trials",
+      "description": "They were given infected blood products in trials without their knowledge, the BBC has found.",
+      "url": "https://www.bbc.co.uk/news/health-68831061",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12AF0/production/_133182567_40aebeba-f62c-4889-b36c-803af4e15c4c.jpg",
+      "publishedAt": "2024-04-18T21:00:43Z",
+      "content": "The true scale of the number of medical trials using infected blood products on children in the 1970s and 80s has been revealed by documents seen by BBC News.\r\nThey reveal a secret world of unsafe cl… [+9372 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Promoted.ai (YC W21) Is Hiring AI Sales Engineer (New Grad OK)",
+      "description": "Promoted is an enterprise B2B SaaS AI startup in San Francisco. We solve search and ads relevance for companies where relevance is the critical driver of business success: large online marketplaces and scaled e-commerce companies. We combine the best of the l…",
+      "url": "https://www.ycombinator.com/companies/promoted/jobs/5moymju-ai-sales-engineer-new-grad",
+      "urlToImage": "https://www.ycombinator.com/images/original/missing.png",
+      "publishedAt": "2024-04-06T12:02:15Z",
+      "content": "Promoted dramatically improves search and discovery relevance and ads quality at scale, like at our customers Upwork, Wayfair, and Outschool. We combine the best of traditional ML and streaming data … [+896 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Emily Stewart",
+      "title": "America's cities had a way to escape the 'doom loop.' Then they blew it.",
+      "description": "Cities like Denver, Boston, New York, and San Francisco are facing budget crunches as tax revenues from office buildings fall and new expenses add up.",
+      "url": "https://www.businessinsider.com/city-state-budget-shortfall-deficit-california-denver-boston-new-york-2024-4",
+      "urlToImage": "https://i.insider.com/661935473f923f7dab073363?width=1200&format=jpeg",
+      "publishedAt": "2024-04-14T10:47:01Z",
+      "content": "City and state governments across America are facing a nasty budget crunch as property taxes fall and new expenses add up.iStock; Rebecca Zisser/BI\r\nBoston has a bit of a budget problem. The rise in … [+8506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "INC Ransom claims responsibility for attack on NHS Scotland",
+      "description": "Sensitive documents dumped on leak site amid claims of 3 TB of data stolen in total\nNHS Scotland says it managed to contain a ransomware group's malware to a regional branch, preventing the spread of infection across the entire institution.…",
+      "url": "https://www.theregister.com/2024/03/28/nhs_scotland_cyberattack/",
+      "urlToImage": "https://regmedia.co.uk/2016/09/26/nhs_hosptial_photo_by_marbury_via_shutterstock.jpg",
+      "publishedAt": "2024-03-28T10:27:12Z",
+      "content": "NHS Scotland says it managed to contain a ransomware group's malware to a regional branch, preventing the spread of infection across the entire institution.\r\nThe INC Ransom group this week claimed re… [+6898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Nearly 1M medical records feared stolen from City of Hope cancer centers",
+      "description": "Is there no cure for this cyber-plague?\nNearly one million individuals' personal details, financial account information, and medical records may have been stolen from City of Hope systems in the United States.…",
+      "url": "https://www.theregister.com/2024/04/03/city_of_hope_data_theft/",
+      "urlToImage": "https://regmedia.co.uk/2018/01/22/patienthospitalbed.jpg",
+      "publishedAt": "2024-04-03T23:33:09Z",
+      "content": "Nearly one million individuals' personal details, financial account information, and medical records may have been stolen from City of Hope systems in the United States.\r\nDespite the name, City of Ho… [+3724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mckinsey.com"
+      },
+      "author": null,
+      "title": "A ‘universal human right’: Quality mental healthcare for children",
+      "description": "Improving mental health globally demands an equitable, evidence-based, and holistic approach that encompasses the specific needs of children and young people, says UNICEF’s Zeinab Hijazi.",
+      "url": "https://www.mckinsey.com/mhi/our-insights/a-universal-human-right-quality-mental-healthcare-for-children",
+      "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/mckinsey%20health%20institute/our%20insights/a%20universal%20human%20right%20quality%20mental%20healthcare%20for%20children/hijazi-5050.jpg",
+      "publishedAt": "2024-04-17T00:00:00Z",
+      "content": "Peak disease burden for chronic physical health conditions1Chronic conditions are defined as cardiovascular diseases, cancer, chronic respiratory diseases, and diabetes (according to the World Health… [+8449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Dirk Knop",
+      "title": "Oracle: Critical Patch Update bringt 441 Sicherheitskorrekturen",
+      "description": "Im April liefert Oracle zum Critical Patch Update (CPU) sehr viele Sicherheitsaktualisierungen aus – 441 an der Zahl.",
+      "url": "https://www.heise.de/news/Oracle-Critical-Patch-Update-bringt-441-Sicherheitskorrekturen-9687914.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/7/4/1/1/6/2024-04-17-Bing_Designer-Oracle_Sicherheitsluecken-2-2160px-1dc8970b16124331.png",
+      "publishedAt": "2024-04-17T11:16:00Z",
+      "content": "Oracle hat zum April-Patchday, den das Unternehmen \"Critical Patch Update\" (CPU) nennt, Hunderte von Sicherheitslücken in zig Anwendungen und Diensten geschlossen. Insgesamt 441 Sicherheitskorrekture… [+1713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Silicon spikes take out 96% of virus particles",
+      "description": "An international research team has designed and manufactured a virus-killing surface that could help control disease spread in hospitals, labs and other high-risk environments.",
+      "url": "https://www.sciencedaily.com/releases/2024/03/240326103936.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-03-26T14:39:36Z",
+      "content": "An international research team led by RMIT University has designed and manufactured a virus-killing surface that could help control disease spread in hospitals, labs and other high-risk environments.… [+3730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Bruce Gil",
+      "title": "Johnson & Johnson just bought a second big heart device company",
+      "description": "Johnson and Johnson announced Friday that it has reached a deal to acquire heart device maker Shockwave Medical for about $13.1 billion. The acquisition expands the healthcare giant’s portfolio of medical devices used to treat heart diseases. Read more...",
+      "url": "https://qz.com/johnson-and-johnson-shockwave-medical-acquisition-1851390357",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/93bb8717e7dd6ee91e9bf3aa8f00629c.jpg",
+      "publishedAt": "2024-04-05T14:40:00Z",
+      "content": "Johnson and Johnson announced Friday that it has reached a deal to acquire heart device maker Shockwave Medical for about $13.1 billion. The acquisition expands the healthcare giants portfolio of med… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Bruce Gil",
+      "title": "Johnson & Johnson is reportedly considering its second big heart device company acquisition",
+      "description": "Healthcare giant Johnson & Johnson could soon buy heart device maker Shockwave Medical, the Wall Street Journal reported. The acquisition would be its second consecutive in the space in two years.Read more...",
+      "url": "https://qz.com/johnson-and-johnson-shockwave-medical-1851367580",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/925816f2f8445b9d12bc6422ff822cd5.jpg",
+      "publishedAt": "2024-03-26T21:24:00Z",
+      "content": "Healthcare giant Johnson &amp; Johnson could soon buy heart device maker Shockwave Medical, the Wall Street Journal reported. The acquisition would be its second consecutive in the space in two years… [+1745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Chuck Brooks, Contributor, \n Chuck Brooks, Contributor\n https://www.forbes.com/sites/cognitiveworld/people/chuckbrooks/",
+      "title": "Healthcare Cybersecurity: A Global Imperative",
+      "description": "In 2023, healthcare cyberattacks had an impact on over 100 million people. Healthcare cybersecurity must become a global imperative.",
+      "url": "https://www.forbes.com/sites/chuckbrooks/2024/04/05/healthcare-cybersecurity-a-global-imperative/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f654b0e6f1fe8c6c1e813e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-05T16:49:47Z",
+      "content": "By Chuck Brooks And Dr. Alessio Pecorario\r\nHealthcare and medical, Doctor and robotics research diagnose Human brains scan. Record and report ... [+] with modern virtual interface, alzheimer's and pa… [+15301 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Kiara Alfonseca",
+      "title": "Lawsuit filed against Ohio trans care ban legislation",
+      "description": "A lawsuit has been filed against Ohio's House Bill 68, which bans gender-affirming medical care for transgender minors.",
+      "url": "https://abcnews.go.com/US/lawsuit-filed-families-ohio-trans-care-ban-legislation/story?id=108519925",
+      "urlToImage": "https://i.abcnewsfe.com/a/502e69be-fc8c-4c34-8d41-81e1dbd6b4d8/transgender-protest-ohio-ap-jt-240326_1711482572863_hpMain_2_16x9.jpg?w=1600",
+      "publishedAt": "2024-03-26T22:10:22Z",
+      "content": "The American Civil Liberties Union, the ACLU of Ohio, and the law firm Goodwin filed a lawsuit Tuesday challenging House Bill 68, legislation in Ohio that bans gender-affirming medical care for trans… [+5958 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Mark Osborne",
+      "title": "Norfolk Southern agrees to massive settlement in East Palestine train derailment",
+      "description": "Norfolk Southern has agreed to a $600 million settlement to resolve a class action lawsuit related to the train derailment in East Palestine, Ohio, in February 2023.",
+      "url": "https://abcnews.go.com/US/norfolk-southern-agrees-600-million-settlement-east-palestine/story?id=109034578",
+      "urlToImage": "https://i.abcnewsfe.com/a/4ebdafbd-bb4e-40ed-8b84-1b3ba2360028/Train-Derailment-Ohio-2-ap-gmh-240409_1712666888420_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-09T12:49:54Z",
+      "content": "Norfolk Southern has agreed to a $600 million settlement to resolve a class action lawsuit related to the train derailment in East Palestine, Ohio, in February 2023.\r\nThe settlement still needs to be… [+1957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "kottke.org"
+      },
+      "author": "Jason Kottke",
+      "title": "End-Stage Poverty Is Killing People in Safety Net-Free America",
+      "description": "Many Patients Don’t Survive End-Stage Poverty by Dr. Lindsay Ryan is a great/upsetting piece about how the poverty many Amer",
+      "url": "https://kottke.org/24/04/end-stage-poverty-is-killing-people-in-safety-net-free-america",
+      "urlToImage": "",
+      "publishedAt": "2024-04-15T16:13:42Z",
+      "content": "Many Patients Don’t Survive End-Stage Poverty by Dr. Lindsay Ryan is a great/upsetting piece about how the poverty many Americans are subjected to in America is killing them. Many people die here in … [+1880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Suzanne Nuyen",
+      "title": "O.J Simpon's complicated legacy; Ukraine passes new draft law",
+      "description": "O.J. Simpson leaves behind a complicated cultural legacy. Ukraine's parliament has adopted a law to mobilize hundreds of thousands of new soldiers.",
+      "url": "https://www.npr.org/2024/04/12/1244274399/up-first-newsletter-oj-simpson-ukraine-draft-law",
+      "urlToImage": "https://media.npr.org/assets/img/2024/04/12/simpson_wide-995de790458f70f9c629ca646a1a8730c003e1e7-s1400-c100.jpg",
+      "publishedAt": "2024-04-12T12:27:12Z",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5203 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dan Latu",
+      "title": "People priced out of Austin and Orlando are moving to these cheaper cities",
+      "description": "Take Killeen, Texas, where Austinites squeezed by high home prices are decamping for cheaper houses and a slower pace of life.",
+      "url": "https://www.businessinsider.com/people-are-moving-from-austin-orlando-to-smaller-quieter-cities-2024-3",
+      "urlToImage": "https://i.insider.com/6602dabc3f923f7dab013a1c?width=1200&format=jpeg",
+      "publishedAt": "2024-03-27T20:45:13Z",
+      "content": "The average sale price of a home in Austin has jumped nearly $100,000 over the past four years. Evan Semones - cosmophotography/Getty Images\r\n<ul><li>Americans squeezed out of pricier cities are movi… [+4032 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jackie Fishman",
+      "title": "I was put on a performance improvement plan, so I chose to retire at 58. Sometimes, I wish I wasn't a young retiree.",
+      "description": "When an employee was put on a PIP, she quit and struggled to get a new job. So she retired and sometimes wishes she could have kept working.",
+      "url": "https://www.businessinsider.com/retired-early-put-on-performance-improvement-plan-2024-4",
+      "urlToImage": "https://i.insider.com/6621485410c6b0cde5f0b897?width=1200&format=jpeg",
+      "publishedAt": "2024-04-19T11:07:01Z",
+      "content": "The author retired at a young age.Courtesy of Jackie Fishman\r\n<ul><li>I was put on a PIP after working at my company for 10 years, so I decided to quit. </li><li>After not being able to find a new jo… [+4494 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Juliana Kaplan,Ayelet Sheffey",
+      "title": "Welcome to 'peak boomer' era: A wave of retirees is about to blow through their savings and cling to Social Security to stay afloat",
+      "description": "While more older boomers tend to have a pension, a looming wave of younger retirees are about to strain the economy and Social Security.",
+      "url": "https://www.businessinsider.com/how-retirement-of-peak-boomers-could-affect-economy-social-security-2024-4",
+      "urlToImage": "https://i.insider.com/6621445e10c6b0cde5f0b4ab?width=1200&format=jpeg",
+      "publishedAt": "2024-04-19T10:01:01Z",
+      "content": "Peak boomers are getting ready to retire.REUTERS/Mike Blake\r\n<ul><li>Over 30 million \"peak boomers\" are entering retirement financially unprepared.</li><li>The economy could take a hit, with industri… [+4370 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Juliana Kaplan,Ayelet Sheffey",
+      "title": "House Republicans want to raise the Social Security age. It could hurt those who 'work their whole lives and die sooner,' the agency's head says.",
+      "description": "Retirees are already facing a financial crisis in the US as more than half of them earn under $30,000 a year.",
+      "url": "https://www.businessinsider.com/social-security-benefits-republicans-raise-age-retirement-cuts-2024-3",
+      "urlToImage": "https://i.insider.com/65fd9448895d822030334192?width=1200&format=jpeg",
+      "publishedAt": "2024-03-22T15:03:10Z",
+      "content": "Former Gov. Martin O'Malley (D-MD), President Biden's nominee to be the next Commissioner of Social Security, arrives to his confirmation hearing before the Senate Finance Committee at the Dirksen Se… [+4219 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelsey Vlamis",
+      "title": "I moved to Ecuador because the US was too expensive. I'd love to move back to Montana and be near my grandkids but I can't afford it.",
+      "description": "Lonita Jensen, a retired nurse,  said she moved to Cuenca, Ecuador, because she couldn't afford to move back to her home state of Montana.",
+      "url": "https://www.businessinsider.com/american-moved-to-cuenca-ecuador-cant-afford-move-home-montana-2024-4",
+      "urlToImage": "https://i.insider.com/661860a11caec1275a6f6141?width=1200&format=jpeg",
+      "publishedAt": "2024-04-13T10:23:01Z",
+      "content": "Lonita Jensen in Montana; The view from Jensen's kitchen window in Ecuador.Lonita Jensen\r\n<ul><li>Lonita Jensen, a retired nurse, said she moved to Ecuador because of high prices in the US.</li><li>J… [+4266 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Theron Mohamed",
+      "title": "Some people are being given thousands of dollars with no strings attached in universal basic income trials. They mostly spend the cash wisely.",
+      "description": "A common question about universal basic income, or UBI, is how people spend the money, but early trials are showing promising results.",
+      "url": "https://www.businessinsider.com/how-people-spend-universal-basic-income-ubi-food-housing-transportation-2024-4",
+      "urlToImage": "https://i.insider.com/660c31911caec1275a6beee4?width=1200&format=jpeg",
+      "publishedAt": "2024-04-03T10:00:34Z",
+      "content": "A universal basic income is paid to all, regardless of wealth or employment status.Boonchai Wedmakawand/Getty Images\r\n<ul><li>Interest in universal basic income has grown due to the pandemic, Elon Mu… [+5996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ArchDaily"
+      },
+      "author": "Hana Abdel",
+      "title": "JSW Sanjeevani Multispeciality Hospital / SJK Architects",
+      "description": "As the first multispeciality hospital in Maharashtra’s infrastructure-starved Dolvi village, the JSW Sanjeevani Hospital not only provides better healthcare to the local community but also facilitates the region’s economic and infrastructural growth. The hosp…",
+      "url": "https://www.archdaily.com/1015582/jsw-sanjeevani-multispeciality-hospital-sjk-architects",
+      "urlToImage": "https://images.adsttc.com/media/images/6618/27b4/ce8b/1233/b165/eb16/large_jpg/jsw-sanjeevani-multispeciality-hospital-sjk-architects_2.jpg?1712859156",
+      "publishedAt": "2024-04-13T17:00:00Z",
+      "content": "© Rajesh Vora\r\n+ 25\r\n<ul><li>Design Team: Shimul Javeri Kadri, Sarika Shetty, Bhavin Patel, Harshini Yohee, Sapna Rohra, Rishit Jain\r\n</li><li></li><li></li><li></li><li></li><li></li></ul>\r\nMore Spe… [+4017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "Paul McClure",
+      "title": "NVIDIA to create AI ‘agents’ that outperform human nurses",
+      "description": "NVIDIA has partnered with Hippocratic AI to develop AI-powered ‘healthcare agents’ that have already been shown to outperform other large language models and human nurses in specific tasks. Will these agents help ease the global healthcare worker shortage, or…",
+      "url": "https://newatlas.com/technology/nvidia-hippocratic-ai-nurses/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/571ee96/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb7%2F74%2Fa302b1594f33a79f621aa2451130%2Fhippocratic-ai-and-nvidia.jpg&na.image_optimisation=0",
+      "publishedAt": "2024-03-25T07:00:00Z",
+      "content": "NVIDIA has partnered with Hippocratic AI to develop AI-powered healthcare agents that have already been shown to outperform other large language models and human nurses in specific tasks. Will these … [+7423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Committee of 200, Contributor, \n Committee of 200, Contributor\n https://www.forbes.com/sites/committeeof200/",
+      "title": "HARNESSING AI TO BRIDGE HEALTH CARE DISPARITIES",
+      "description": "Healthcare innovators are leveraging AI to address disparities, improve access, and enhance patient education—reshaping the healthcare landscape for equitable outcomes.",
+      "url": "https://www.forbes.com/sites/committeeof200/2024/04/09/harnessing-ai-to-bridge-health-care-disparities/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66152d946bd156113fd413cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-09T12:01:51Z",
+      "content": "Sophia Velastegui: C200 member, AI business leader; AI advisor for the National Science Foundation; Former General Manager, AI, and Chief AI Technology Officer at Microsoft; formerly at tech giants G… [+7897 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Solcyré Burga",
+      "title": "Here’s Who Will Benefit From Biden’s $7.4 Billion in Student Loan Forgiveness",
+      "description": "More than 275,000 borrowers enrolled in Saving on a Valuable Education (SAVE), public service loan forgiveness (PSLF), and others who benefit from previously announced income-driven repayment plan adjustments will see student debt relief amounting to $7.4 bil…",
+      "url": "https://time.com/6966468/bidens-billions-student-loan-forgiveness/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/biden-student-loan-relief.jpg?quality=85",
+      "publishedAt": "2024-04-12T20:10:32Z",
+      "content": "More than 275,000 borrowers enrolled in Saving on a Valuable Education (SAVE), public service loan forgiveness (PSLF), and others who benefit from previously announced income-driven repayment plan ad… [+2757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Trendwatching.com"
+      },
+      "author": "Liesbeth den Toom",
+      "title": "Hippocratic's generative AI for healthcare: supplement, not substitute, for nurses?",
+      "description": "At USD 9 per hour, healthcare agents designed by Hippocratic AI offer 24/7 patient support, stirring discussions on the future of nursing.",
+      "url": "https://www.trendwatching.com/innovation-of-the-day/hippocratics-generative-ai-for-healthcare-supplement-not-substitute-for-nurses",
+      "urlToImage": "https://www.trendwatching.com/hubfs/nvidia-hippocratic.jpg#keepProtocol",
+      "publishedAt": "2024-03-21T15:39:10Z",
+      "content": "Around the world, healthcare systems are struggling to hire nurses. Hospitals blame massive shortages; nurses say the staffing crisis is caused by low pay and poor working conditions, often due to in… [+1175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Stu Clark, Forbes Councils Member, \n Stu Clark, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/stuclark/",
+      "title": "Beyond Providing Healthcare: Driving Employee Utilization",
+      "description": "Healthcare only works if people use it.",
+      "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/18/beyond-providing-healthcare-driving-employee-utilization/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/60f6f2af422c6d2c3611813d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-18T14:30:00Z",
+      "content": "Stu Clark, CEO, Premise Health.\r\ngetty\r\nSpringtime is benefits planning season for companies. This is when HR team and benefits brokers sit down to strategize how to secure the best healthcare benefi… [+6363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Itsnicethat.com"
+      },
+      "author": "Yaya Azariah Clarke",
+      "title": "Polytechnic’s publication design for Hospital Rooms amplifies its impact on mental healthcare through art",
+      "description": "The magazine/book explores the charity’s diverse artist commissions (such as Hurvin Anderson, Yinka Ilori and Shepherd Mayinka) and celebrates its important work.",
+      "url": "https://www.itsnicethat.com/articles/polytechnic-springfield-hospital-rooms-publication-graphic-design-project-250324",
+      "urlToImage": "https://admin.itsnicethat.com/images/iDBjck0vCm7DhfNSCCqnxPaX1Ck=/251869/width-1440/polytechnic-hospital-rooms-publication-graphic-design-itsnicethat-10.jpg",
+      "publishedAt": "2024-03-25T11:00:00Z",
+      "content": "For Polytechnic, the most important aspect of the Springfield project was focusing on Hospital Rooms transformative nature. Its encountered through the form and content of the artworks they commissio… [+2276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Rich Birhanzel, Forbes Councils Member, \n Rich Birhanzel, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/richbirhanzel/",
+      "title": "The Why Behind Responsible AI In Healthcare",
+      "description": "Responsible AI is not a new concept, but with the rise of Chat-GPT and other generative AI tools, the potential reach and impact of issues have much wider repercussions.",
+      "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/04/05/the-why-behind-responsible-ai-in-healthcare/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64df8eef31caa1d854c712fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-05T11:45:00Z",
+      "content": "Rich Birhanzel, Accenture's global health industry lead.\r\ngetty\r\nTechnologyand artificial intelligence (AI) in particularhas, and will continue to play, a major role in how healthcare organizations o… [+5675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Drs. Aditi U. Joshi and Brandon M. Welch, Forbes Books Author, \n Drs. Aditi U. Joshi and Brandon M. Welch, Forbes Books Author\n https://www.forbes.com/sites/forbesbooksauthors/people/drsaditiujoshiandbrandonmwelch/",
+      "title": "Telehealth Makes Equitable Healthcare Access Achievable",
+      "description": "Healthcare providers face significant challenges in delivering services to disadvantaged communities, with telehealth emerging as a vital tool in this endeavor.",
+      "url": "https://www.forbes.com/sites/forbesbooksauthors/2024/04/18/telehealth-makes-equitable-healthcare-access-achievable/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6621693d4bd35a4406c8511c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-18T18:42:27Z",
+      "content": "Telehealth expands access to rural and disadvantaged communities.\r\ngetty\r\nHealthcare providers face significant challenges in delivering services to disadvantaged communities, with telehealth emergin… [+4178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mckinsey.com"
+      },
+      "author": null,
+      "title": "Are women’s prime working years in peril?",
+      "description": "Women’s healthcare has been neglected for decades. McKinsey research dispels some of the myths about women’s health and suggests ways to significantly improve health outcomes—and the economy.",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/are-womens-prime-working-years-in-peril",
+      "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/industries/healthcare%20systems%20and%20services/our%20insights/are%20womens%20prime%20working%20years%20in%20peril/are-womens-prime-thumb-1536x1536.jpg",
+      "publishedAt": "2024-03-21T00:00:00Z",
+      "content": "Only since the 1990s have women participated in clinical trials at scale. Its no wonder, then, that research on womens health is inadequate. On this episode of The McKinsey Podcast, McKinsey senior p… [+16446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Jesse Pines, Contributor, \n Jesse Pines, Contributor\n https://www.forbes.com/sites/jessepines/",
+      "title": "5 Ways Artificial Intelligence Is Changing Healthcare",
+      "description": "While the artificial intelligence revolution has just being, it is transforming healthcare, speeding drug discovery, improving both diagnosis and patient communication.",
+      "url": "https://www.forbes.com/sites/jessepines/2024/04/17/5-ways-artificial-intelligence-is-changing-healthcare/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/661f3be868f4e849341ffaa2/0x0.jpg?format=jpg&crop=4800,2700,x0,y248,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-04-17T12:00:00Z",
+      "content": "Healthcare artificial intelligence (AI) is in its infancy but has the potential to transform patient ... [+] care, research, and drug discovery\r\nAFP via Getty Images\r\nThe revolution of artificial int… [+4775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "tipranks.com",
+      "title": "Austco Healthcare Posts Remarkable Q3 Growth",
+      "description": "Austco Healthcare Limited (AU:AHC) has released an update. Austco Healthcare Limited has reported significant financial growth in the third quarter...",
+      "url": "https://biztoc.com/x/002911f2bce18927",
+      "urlToImage": "https://c.biztoc.com/p/002911f2bce18927/s.webp",
+      "publishedAt": "2024-04-17T00:40:13Z",
+      "content": "Austco Healthcare Limited (AU:AHC) has released an update. Austco Healthcare Limited has reported significant financial growth in the third quarter...\r\nThis story appeared on tipranks.com, ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Bruce Gil",
+      "title": "UnitedHealth stock pops even after a big cyberattack cost it big money",
+      "description": "UnitedHealth Group, the largest health insurance company in the U.S., was the top performer in S&P 500 Tuesday morning after it reported higher-than expected revenue amid the fallout of a massive cyberattack earlier this year. Read more...",
+      "url": "https://qz.com/unitedhealth-group-earnings-cyberattack-1851412965",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9cba52b18917ba2ec6e470c1be1e34d2.jpg",
+      "publishedAt": "2024-04-16T14:30:26Z",
+      "content": "UnitedHealth Group, the largest health insurance company in the U.S., was the top performer in S&amp;P 500 Tuesday morning after it reported higher-than expected revenue amid the fallout of a massive… [+1770 chars]"
+    }
+  ]
+}

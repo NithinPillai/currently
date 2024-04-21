@@ -16,12 +16,16 @@ import Hammer from 'hammerjs';
 export class VerticalCarouselComponent implements OnInit {
   activeIndex = 0;
   reels: Reel[] = [];
+  currentColor: string = "";
+  prevColor: string = "";
 
   constructor(private reelService: LoadReelService, private elementRef: ElementRef) {}
 
   
   ngOnInit(): void {
     this.loadReels();
+    
+    this.search();
     this.initializeHammer();
   }
 
@@ -76,6 +80,18 @@ export class VerticalCarouselComponent implements OnInit {
     if (this.activeIndex > 0) {
       this.activeIndex--;
     }
+
+    this.prevColor = this.currentColor;
+    this.setColor();
+    while (this.prevColor == this.currentColor) {
+      this.setColor();
+    }
+
+    this.prevColor = this.currentColor;
+    this.setColor();
+    while (this.prevColor == this.currentColor) {
+      this.setColor();
+    }
     const navbar = document.getElementById('navbar');
     if (navbar != null) {
       navbar.style.opacity = "1";
@@ -92,6 +108,13 @@ export class VerticalCarouselComponent implements OnInit {
     if (this.activeIndex < this.reels.length - 1) {
       this.activeIndex++;
     }
+
+    this.prevColor = this.currentColor;
+    this.setColor();
+    while (this.prevColor == this.currentColor) {
+      this.setColor();
+    }
+
     const element = document.getElementById(`reel_${this.activeIndex}`);
     if (element != null) {
       element.scrollIntoView({behavior: 'smooth', block: 'start', inline: 'nearest'});
@@ -110,15 +133,34 @@ export class VerticalCarouselComponent implements OnInit {
 
   
   loadReels(): void {
-    this.reelService.getReels().subscribe(reels => {
-      this.reels = reels;
-      console.log(this.reels);
-      this.reels.forEach((reel): void => {
-        reel.description = reel.description.slice(0, 60);
-        reel.description += '...'
-        reel.likes = Math.floor(Math.random() * 14000);
+      this.reelService.getReels().subscribe(reels => {
+        this.reels = reels;
+
+        this.reels.forEach((reel): void => {
+          reel.description = reel.description.slice(0, 60);
+          reel.description += '...'
+          reel.likes = Math.floor(Math.random() * 14000);
+        });
       });
-    });
-    
+    }
+  
+
+    setColor(): void {
+      const colors: string[] = ['#ffebcd', '#505987', '#9070b8', '#c58bcc', '#afc9c3', '#d4cd9d', '#ba8282'];
+      const currColor: string = colors[Math.floor(Math.random() * 8)];
+      this.currentColor = currColor;
+    }
+
+    search(): void {
+      const myImage = document.querySelector('search') as HTMLElement;
+      let answer: any = '';
+      if (myImage != null) {
+        myImage.addEventListener('click', function() {
+          answer = prompt('Search any topic: ');
+        });
+      }
+
+    }
+
   }
-}
+

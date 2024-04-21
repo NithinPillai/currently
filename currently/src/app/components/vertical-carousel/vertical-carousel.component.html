@@ -1,12 +1,18 @@
 <div class="vertical-carousel">
-  <div *ngFor="let reel of reels; let i = index" [class.active]="i === activeIndex" class="reel" [id]="'reel_' + i">
+  <div *ngFor="let reel of reels; let i = index" [class.active]="i === activeIndex" class="reel" [id]="'reel_' + i" [style.backgroundColor]="currentColor">
     <h2>{{ reel.title }}</h2>
-    <img [src]="reel.urlToImage" alt="{{ reel.title }}">
-    <h4>{{ reel.description }}</h4>
-    <div>{{ reel.source_name }}</div>
-    <div>{{ reel.likes }} likes</div>
+    <div class="image-container">
+      <img [src]="reel.urlToImage" alt="{{ reel.title }}">
+      <div class="overlay">
+        <img width="50" height="50" src="https://img.icons8.com/plasticine/50/like--v1.png" alt="like--v1"/>
+        <div>{{ reel.likes }}</div>
+        <img width="50" class="search" height="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/50/external-magnifying-essentials-soft-fill-soft-fill-juicy-fish-2.png" alt="external-magnifying-essentials-soft-fill-soft-fill-juicy-fish-2"/>
+      </div>
+    </div>
     
-    <!-- <a [href]="reel.url" target="_blank">Read more</a> -->
+    <h4>{{ reel.description }}</h4>
+    
+    
     <img src="" height="100" alt="" id="likeGifHolder" style="opacity:0">
   </div>
 
